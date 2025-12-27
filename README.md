@@ -222,7 +222,3 @@ This project is well-suited for **SOC Analyst, Cybersecurity, and SIEM roles**.
 ```
 
 
-
-Just tell me 👍
-```
-
